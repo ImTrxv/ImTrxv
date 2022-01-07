@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @ImTrxv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... on Discord @Trxv#6969
+![](https://komarev.com/ghpvc/?username=ImTrxv&label=Views&color=lightgrey&style=flat)
 
-<!---
-ImTrxv/ImTrxv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @ImTrxv
+- 👀 I’m interested in the Trxv Slide
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on nothing atm.
+- 📫 Reach me on Discord @Trxv#6969
